@@ -5,7 +5,9 @@ Generative AI with Large Language Models
 2024년 1월 ~ 2024년 2월
 
 [강의내용]
+
 **Lab_1_summarize_dialogue
+
 - Prompt Engineering 없이 대화 요약
 - Zero Shot Inference 사용해서 Prompt 구성 후 대화 요약
 - FLAN-T5로 부터 Prompt Template 전달
