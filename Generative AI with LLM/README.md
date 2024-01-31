@@ -1,14 +1,14 @@
-[강의명]
+**[강의명]**
 
 Generative AI with Large Language Models
 
-[수강일시]
+**[수강일시]**
 
 2024년 1월 ~ 2024년 2월
 
-[강의내용]
+**[강의내용]**
 
-**Lab_1_summarize_dialogue**
+<Lab_1_summarize_dialogue>
 
 - Prompt Engineering 없이 대화 요약
 - Zero Shot Inference 사용해서 Prompt 구성 후 대화 요약
