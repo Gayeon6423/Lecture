@@ -6,7 +6,7 @@ Generative AI with Large Language Models
 
 [강의내용]
 
-**Lab_1_summarize_dialogue
+**Lab_1_summarize_dialogue**
 
 - Prompt Engineering 없이 대화 요약
 - Zero Shot Inference 사용해서 Prompt 구성 후 대화 요약
